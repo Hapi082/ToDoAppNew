@@ -1,0 +1,21 @@
+# Gradle
+.gradle/
+build/
+
+# Local configuration
+local.properties
+
+# IntelliJ / Android Studio
+.idea/
+*.iml
+
+# Log files
+*.log
+
+# Keystore (署名鍵は絶対に上げない)
+*.jks
+*.keystore
+
+# Others
+captures/
+.externalNativeBuild/
