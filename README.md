@@ -1,6 +1,6 @@
 # SimpleAppNew
 
-Android（Kotlin, Jetpack Compose）で構築したシンプルな Todo アプリです。
+Android（Kotlin）で構築したシンプルな Todo アプリです。
 タスクの追加・編集・削除に加え、左スワイプ削除・右スワイプ編集に対応した直感的な UI を備えています。
 
 # 📱 主な機能
