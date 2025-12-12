@@ -17,8 +17,6 @@ Android（Kotlin, Jetpack Compose）で構築したシンプルな Todo アプ�
 
 Kotlin
 
-Jetpack Compose
-
 ChatGPT 5.1（開発支援）
 
 # 🚀 セットアップ方法（APK インストール）
